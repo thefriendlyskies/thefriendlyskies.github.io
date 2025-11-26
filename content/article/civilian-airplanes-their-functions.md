@@ -1,6 +1,6 @@
 ﻿---
-title: "What are Different Planes Types and Their Functions?"
-meta_title: "What are Different Plane Types and Their Functions?"
+title: "What are the Different Plane Types and Their Functions?"
+meta_title: "What are the Different Plane Types and Their Functions?"
 description: "Civilian airplanes come in a range of types and functions. Explore the different types of airplanes and how they play a key role in modern aviation."
 date: 2025-11-15T13:00:00+02:00
 draft: false
