@@ -14,8 +14,6 @@ Compared to 2024, Friendly Skies saw a 46% increase in total users in 2025.
 
 {{< traffic-stats >}}
 
-{{< img src="/traffic-quality.webp" caption="Quality of traffic, last 12 months" alt="pie chart representing the quality of our website traffic.">}}
-
 ## Available Services
 
 Currently, The Friendly Skies website offers a couple of services, that can help your business grow.
