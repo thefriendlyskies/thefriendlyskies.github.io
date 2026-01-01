@@ -4,15 +4,13 @@ date: 2023-01-04T12:31:24+02:00
 is_unique_page: true
 ---
 
-Friendly Skies is the online aviation news and evergreen content website, covering the latest developments in the industry. As an independent source for both enthusiasts and professionals, we deliver insightful and up-to-date reports on a diverse range of topics, including general aviation, military aviation, accidents, and more.
+The Friendly Skies is the online aviation news and online publication website, covering the latest developments in the aviation industry. As an independent source for both enthusiasts and professionals, we deliver insightful and up-to-date reports on a diverse range of topics, including commercial aviation, general aviation, military aviation, accidents, and more.
 
-We also aim to address the most common questions across various aviation topics, guide professionals through technical aspects, and revisit the most important moments in aviation history.
+Launched in 2022, The Friendly Skies has achieved several key milestones over the past year and continues to grow every day. 
 
-Launched in 2022, Friendly Skies has achieved several key milestones over the past year and continues to grow every day. 
+Compared to 2024, Friendly Skies saw a 46% increase in total users in 2025.
 
-In the last 12 months, Friendly Skies has grown by 570% in terms of active users.
-
-## Our Audience
+## Our Key Stats in 2025
 
 {{< traffic-stats >}}
 
@@ -22,12 +20,22 @@ In the last 12 months, Friendly Skies has grown by 570% in terms of active users
 
 Currently, The Friendly Skies website offers a couple of services, that can help your business grow.
 
+All services offered by The Friendly Skies are exclusively available to aviation and aviation-related businesses.
+
 For partnerships and other opportunities contact us at [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
 
-### 1) Content Marketing
+### 1) Content Marketing & Sponsored Content
 
-Our team will work with you to develop a customized article campaign, tailored to your specific needs. We'll guide you through every detail to ensure a smooth and successful campaign launch!
+We create customized editorial content aligned with your brand goals, including sponsored articles, promotions, product launches, and brand storytelling. Our team manages the entire process to ensure a seamless and effective campaign.
 
-### 2) Affiliate Banners
+### 2) Advertising Services
 
-For aviation-related businesses only. Our team will place your banner, with an affiliate link, at the top of each article page and help you reach your potential customers.
+We provide targeted advertising opportunities across The Friendly Skies website, including display ads, featured placements, and campaign-based promotions designed to maximize visibility and audience engagement.
+
+### 3) Airline & Aviation Industry Partnerships
+
+We collaborate with airlines and aviation companies on co-branded initiatives such as service promotions, route announcements, product launches, and exclusive editorial features.
+
+### 4) Affiliate Marketing
+
+We offer high-visibility affiliate banner placements, including premium positions at the top of article pages, to help drive traffic and conversions.
