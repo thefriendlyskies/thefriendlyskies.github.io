@@ -74,7 +74,7 @@ However, it's important to note that the [price varies](https://time.com/7269375
 
 ## Current operators of F-35 and deliveries
 
-The aircraft is currently in active service with various air forces and navies around the world. Its operators include the United States (USAF, USMC, USN), the United Kingdom, Netherlands, Italy, Denmark, Belgium, Norway, South Korea, Japan, Israel and Australia. Also, At least nine countries have placed orders for the F-35 in the near future. As of 2025, the number of units built had [exceeded 1,100 aircraft](https://www.f35.com/f35/about/fast-facts.html). 
+The aircraft is currently in active service with various air forces and navies around the world. Its operators include the United States (USAF, USMC, USN), the United Kingdom, Netherlands, Italy, Denmark, Belgium, Norway, South Korea, Japan, Israel and Australia. Also, At least nine countries have placed orders for the F-35 in the near future. As of 2026, the number of units delivered had [exceeded 1,270 aircraft](https://www.f35.com/f35/about/fast-facts.html). 
 
 ## Future development 
 
