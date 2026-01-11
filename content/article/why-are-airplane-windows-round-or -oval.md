@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 title: "Why are Airplane Windows Round or Oval?"
 meta_title: "Why are Airplane Windows Round or Oval?"
 description: "Why are airplane windows round or oval? Learn the history of airplane windows and the importance of having round windows for plane safety and functionality."
