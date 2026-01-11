@@ -22,6 +22,8 @@ All services offered by The Friendly Skies are exclusively available to aviation
 
 For partnerships and other opportunities contact us at [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
 
+Or book a call directly with me here: https://calendly.com/rositamicsan/30min
+
 ### 1) Content Marketing & Sponsored Content
 
 We create customized editorial content aligned with your brand goals, including sponsored articles, promotions, product launches, and brand storytelling. Our team manages the entire process to ensure a seamless and effective campaign.
