@@ -20,7 +20,7 @@ Currently, The Friendly Skies website offers a couple of services, that can help
 
 All services offered by The Friendly Skies are exclusively available to aviation and aviation-related businesses.
 
-For partnerships and other opportunities contact us at [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
+For partnerships and other opportunities contact us at: [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
 
 Or book a call directly with me here: https://calendly.com/rositamicsan/30min
 
