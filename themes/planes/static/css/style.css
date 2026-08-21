@@ -636,11 +636,10 @@ td, th{
 );
 }
 
+.featured-section .google-auto-placed, 
+.front-page-shell .google-auto-placed,
+figure .google-auto-placed,
 .article-card .google-auto-placed{
-  display: none;
-}
-
-figure .google-auto-placed{
   display: none;
 }
 
