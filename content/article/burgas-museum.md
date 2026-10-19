@@ -26,7 +26,7 @@ I discovered the following aircraft: Tu-154, An-12, An-24, MiG-17, MiG-21, L-29,
 
 Visitors also have the unique opportunity to climb into the cockpits of several aircraft, including the MiG-17, MiG-21, Tu-154, and An-2.
 
-The [impressive interactive exhibit](https://www.gotoburgas.com/en/places-to-go/view/552), Homo Volans (The Flying Man), is in an An-12 aircraft. This exhibit features numerous authentic items, airplane models, costumes, installations, and archives from aviation history. 
+The impressive interactive exhibit, Homo Volans (The Flying Man), is in an An-12 aircraft. This exhibit features numerous authentic items, airplane models, costumes, installations, and archives from aviation history. 
 
 {{< img src="/19072024/3.webp" id="i_plane" caption="Photo taken by Rosita Mickeviciute, 2024" alt="black costume with plane">}} 
 

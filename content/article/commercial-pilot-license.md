@@ -33,7 +33,7 @@ After obtaining a PPL, you must obtain an IR. An IR allows you to fly in conditi
 
 ### Step 4: Obtaining a Commercial Pilot's License (CPL)
 
-After obtaining an IR, you must obtain a CPL. A CPL allows you to fly for commercial purposes, such as conducting tours, aerial photography, or operating as a flight instructor. To obtain a CPL, you must complete a [minimum of 200 hours of flight time](https://www.atpl.at/CPL_flight_training.php), including 100 hours of pilot-in-command time and 20 hours of cross-country flight time.
+After obtaining an IR, you must obtain a CPL. A CPL allows you to fly for commercial purposes, such as conducting tours, aerial photography, or operating as a flight instructor. To obtain a CPL, you must complete a [minimum of 200 hours of flight time](https://flyingacademy.com/easa-cpl/), including 100 hours of pilot-in-command time and 20 hours of cross-country flight time.
 
 {{< img src="/13042024/1.webp" id="i_plane" caption="Scandinavian Airlines / Wikimedia" alt="Female pilot in a cockpit">}}
 

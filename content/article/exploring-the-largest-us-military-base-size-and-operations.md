@@ -120,8 +120,6 @@ It also boasts a diverse array of units and divisions that contribute to its vit
 
 Additionally, Eglin's auxiliary fields contribute significantly to its operations. These include Duke Field, which supports Air Force Special Operations Command, and Hurlburt Field, which is a hub for Special Operations forces. 
 
-{{< vid src="https://www.youtube.com/embed/bmuGD3lwkpM" >}}
-
 ## 9. Naval Station Norfolk
 
 Situated in Norfolk, Virginia, Naval Station Norfolk is the world's largest naval station, featuring a fleet of 75 ships aligned along 14 piers, along with 134 aircraft and 11 aircraft hangars at the closely managed Chambers Field. It encompasses an area exceeding six square miles of land. 
@@ -164,4 +162,4 @@ Also, based at Fort Bliss is the Mobilization Brigade. They are responsible for 
 - [https://en.wikipedia.org/wiki/Main\_Page](https://en.wikipedia.org/wiki/Main\_Page)
 - [https://installations.militaryonesource.mil/](https://installations.militaryonesource.mil/)
 - [https://www.military.com/](https://www.military.com/)
-- [https://home.army.mil/imcom/index.php/garrisons](https://home.army.mil/imcom/index.php/garrisons)
+- [https://home.army.mil/imcom/garrisons](https://home.army.mil/imcom/garrisons)

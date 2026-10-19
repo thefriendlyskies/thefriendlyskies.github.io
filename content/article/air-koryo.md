@@ -72,7 +72,7 @@ The Tu-204 fleet represents the airline’s most modern equipment and remains th
 
 ## Is Air Koryo the World’s Worst Airline?
 
-Air Koryo often carries the infamous reputation of being the “world’s worst airline.” This label comes largely from Skytrax, an airline review website that once awarded Air Koryo a one-star rating. While Skytrax ratings are not official aviation safety assessments, the media and travel blogs quickly popularized the stigma. Today, Skytrax no longer ranks Air Koryo, instead listing it as “Airline not rated”. Interestingly, [reviews on the site](https://www.airlinequality.com/airline-reviews/air-koryo/) from actual passengers average 6/10, which puts the airline above some budget carriers. 
+Air Koryo often carries the infamous reputation of being the “world’s worst airline.” This label comes largely from Skytrax, an airline review website that once awarded Air Koryo a one-star rating. While Skytrax ratings are not official aviation safety assessments, the media and travel blogs quickly popularized the stigma. Today, Skytrax no longer ranks Air Koryo, instead listing it as “Airline not rated”.
 
 The official [airline’s website](http://www.airkoryo.com.kp) is outdated and not fully responsive. As a result, tourists are unable to book Air Koryo flights directly online. Instead, tickets must be arranged through an authorized [travel agent or a registered tour operator](https://koryogroup.com/travel-guide/air-koryo-north-korea-travel-guide).
 

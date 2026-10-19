@@ -89,7 +89,7 @@ Ongoing improvements in satellite technology aim to address latency concerns, en
 
 ### Integration of 5G networks
 
-The integration of 5G networks is expected to revolutionize in-flight Wi-Fi yet further, offering [faster speeds and lower latency](https://www.verizon.com/business/en-gb/resources/articles/five-ways-5g-will-transform-the-air-travel-experience/).
+The integration of 5G networks is expected to revolutionize in-flight Wi-Fi yet further, offering faster speeds and lower latency.
 
 {{< img src="/14112024/4.webp" id="i\_plane" caption="Steve Heap / Shutterstock" alt="Airplane flying over radars">}}
 
