@@ -18,7 +18,7 @@ Let’s dive into their history and routines to uncover what makes them so speci
 
 ## The team of Thunderbirds
 
-The USAF Thunderbirds hold the distinction of being the [world's third-oldest formal aerobatic flying team](https://veterans.nv.gov/super-delta-formation-of-the-blue-angels-and-thunderbirds/), following on from the formation of the French Air Force Patrouille de France in 1931 and the United States Navy Blue Angels in 1946. The team is composed of highly skilled pilots and support personnel who represent the Air Force in various air shows and events across the United States and around the globe.
+The USAF Thunderbirds hold the distinction of being the [world's third-oldest formal aerobatic flying team](https://nationalvmm.org/get-to-know-the-u-s-air-force-thunderbirds/), following on from the formation of the French Air Force Patrouille de France in 1931 and the United States Navy Blue Angels in 1946. The team is composed of highly skilled pilots and support personnel who represent the Air Force in various air shows and events across the United States and around the globe.
 
 {{< img src="/02032025/1.webp" id="i\_plane" caption="Noah Wulf / Wikimedia" alt="USAF Thunderbirds team marching">}}
 

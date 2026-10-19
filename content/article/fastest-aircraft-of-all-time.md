@@ -49,7 +49,7 @@ One of the F-111’s most notable features was its variable-geometry wings, maki
 
 With a top speed of Mach 2.5, the General Dynamics F-111 Aardvark set a record for the [longest low-level supersonic flight](https://www.lockheedmartin.com/en-us/news/features/history/f-111.html) in November 1966, covering 172 miles (277 kilometers) at an altitude of less than 1,000 feet (304 metres).
 
-The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195844/f-111a-in-southeast-asia/) during the Vietnam War, where it played a significant role in precision strikes. On January 17, 1991, an EF-111A crew scored an [unofficial kill](https://tacairnet.com/2013/09/10/unarmed-kill/) by forcing an Iraqi Mirage F1 to crash, making it the only F-111 variant to achieve an air-to-air victory.
+The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195844/f-111a-in-southeast-asia/) during the Vietnam War, where it played a significant role in precision strikes. On January 17, 1991, an EF-111A crew scored an unofficial kill by forcing an Iraqi Mirage F1 to crash, making it the only F-111 variant to achieve an air-to-air victory.
 
 ### Main Variants
 
@@ -146,7 +146,7 @@ The Lockheed Martin SR-72 is a proposed hypersonic reconnaissance aircraft. Firs
 
 The X-15, an experimental hypersonic rocket-powered research aircraft, was operated by NASA and the USAF. The initial requests for proposals were published in December 1954 for the airframe and in February 1955 for the rocket engine. North American Aviation was contracted to build the airframe, while Reaction Motors was selected to design the rocket engines. 
 
-Only three X-15 aircraft were built, and these were carried aloft by two modified B-52 bombers before [being launched mid-air](https://www.dfrc.nasa.gov/Gallery/Photo/X-15/HTML/E-4942.html). The aircraft was officially introduced on September 17, 1959, and flew a total of 199 test flights, with the final flight taking place on October 24, 1968.
+Only three X-15 aircraft were built, and these were carried aloft by two modified B-52 bombers before being launched mid-air. The aircraft was officially introduced on September 17, 1959, and flew a total of 199 test flights, with the final flight taking place on October 24, 1968.
 
 Eight of the 13 pilots who flew the X-15 reached altitudes above 50 miles (80 kilometres), surpassing the USAF’s spaceflight criteria and automatically [qualifying them as astronauts](https://web.archive.org/web/20180413033113/http://www.nasa.gov/home/hqnews/2005/aug/HQ_05233_X-15_pilots_honored.html).
 

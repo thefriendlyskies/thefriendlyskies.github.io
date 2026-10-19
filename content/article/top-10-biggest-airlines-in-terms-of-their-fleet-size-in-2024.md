@@ -109,7 +109,7 @@ The Airbus A320 takes the lead as the [most prevalent aircraft](https://www.flig
 
 - Fleet size: 676
 
-China Southern Airlines, founded in 1988, is headquartered in Baiyun District, Guangzhou. It holds the distinction of being the largest airline in China, as well as the largest in Asia in terms of [fleet size, revenue, and number of routes](https://www.csair.com/en/about/investor/yejibaogao/2023/resource/cc65199a874250e93c377d05441a7d1b.pdf). 
+China Southern Airlines, founded in 1988, is headquartered in Baiyun District, Guangzhou. It holds the distinction of being the largest airline in China, as well as the largest in Asia in terms of [fleet size, revenue, and number of routes](https://www.csair.com/mcms/mcmsNewSite/fr/eu/build/index.html?page=gongsijianjie&title=Company%20Profile). 
 
 The airline's main hubs are located at Beijing Daxing and Guangzhou Baiyun International Airports, complemented by secondary hubs and focus cities positioned across 22 airports in China. China Southern Airlines serves a network of [234 destinations](https://www.flightconnections.com/route-map-china-southern-cz) in 43 countries worldwide.
 

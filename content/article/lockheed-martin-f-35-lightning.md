@@ -68,7 +68,7 @@ The F-35 features a modern, stealthy design that reduces its radar cross-section
 
 The F-35 is the [most expensive weapons system ever](https://responsiblestatecraft.org/f-35-most-expensive/), with a price tag of between $150-200 million per unit. 
 
-However, it's important to note that the [price varies](https://time.com/7269375/trump-nato-europe-canada-fighter-jets-defense-technology-made-america/) depending on factors such as quantity, customization and production efficiencies.
+However, it's important to note that the price varies depending on factors such as quantity, customization and production efficiencies.
 
 {{< img src="/25032025/4.webp" id="i\_plane" caption="Lance Cpl. Tyler Harmon / Wikimedia" alt="U.S. Marine Corps F-35B Lightning II aircraft">}}
 
