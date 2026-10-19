@@ -20,7 +20,7 @@ This article examines the development, combat history, export influence, and cur
 
 The[ ](https://www.britannica.com/topic/MiG-Russian-design-bureau)[MiG design bureau was established in 1939](https://www.britannica.com/topic/MiG-Russian-design-bureau) by Artem Mikoyan and Mikhail Gurevich under Stalin's Soviet aircraft industry expansion. Their first major success came with the MiG-3, a high-altitude interceptor that saw action during World War II, though it struggled at lower altitudes where most combat occurred.
 
-The real breakthrough arrived in 1947 with the[ ](https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/m/mig-15.html)[MiG-15](https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/m/mig-15.html), the Soviet Union's first successful swept-wing jet fighter. Powered by a reverse-engineered copy of the British Rolls-Royce Nene engine which the UK government ironically sold to the Soviets, the MiG-15 shocked the West with its performance. Simple, rugged, and deadly effective, it could outclimb and out-turn the American F-86 Sabre at high altitudes.
+The real breakthrough arrived in 1947 with the[ ](https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/m/mig-15.html) MiG-15, the Soviet Union's first successful swept-wing jet fighter. Powered by a reverse-engineered copy of the British Rolls-Royce Nene engine which the UK government ironically sold to the Soviets, the MiG-15 shocked the West with its performance. Simple, rugged, and deadly effective, it could outclimb and out-turn the American F-86 Sabre at high altitudes.
 
 ## Combat Debut: The Korean War
 
