@@ -12,7 +12,7 @@ is_article: true
 
 {{< img src="/06112026/cover.jpg" id="i_plane" caption="Eduard Marmet / Wikimedia" alt="An Air New Zealand-operated McDonnell Douglas DC-10">}}
 
-On November 28 1979, Air New Zealand Flight 901 crashed into Mt. Erebus, killing all 257 people on board. The Mt. Erebus plane crash remains the worst civil accident in the history of New Zealand's aviation, and, at the time of the disaster, the [fourth-deadliest air crash](https://web.archive.org/web/20160304110437/http://antarcticsun.usap.gov/pastIssues/1999-2000/1999_11_28.pdf) of all time.
+On November 28, 1979, Air New Zealand Flight 901 crashed into Mt. Erebus, killing all 257 people on board. The Mt. Erebus plane crash remains the worst civil accident in the history of New Zealand's aviation, and, at the time of the disaster, the [fourth-deadliest air crash](https://web.archive.org/web/20160304110437/http://antarcticsun.usap.gov/pastIssues/1999-2000/1999_11_28.pdf) of all time.
 
 ## Crash Details
 
