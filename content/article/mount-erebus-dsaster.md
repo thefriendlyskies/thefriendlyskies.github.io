@@ -4,13 +4,13 @@ meta_title: "Mount Erebus Disaster: The 1979 Air New Zealand Flight 901"
 description: "This article explores the Erebus plane crash involving Air New Zealand Flight 901, known as the worst civil accident in the history of New Zealand's aviation."
 date: 2026-11-06T11:00:00+15:00
 draft: false
-thumb: "/06112026/cover.jpg"
+thumb: "//06112026/cover.jpg"
 thumb_alt: "Air New Zealand Flight 901 approaching Mt. Erebus"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="06112026/cover.jpg" id="i_plane" caption="Eduard Marmet / Wikimedia" alt="An Air New Zealand-operated McDonnell Douglas DC-10">}}
+{{< img src="/06112026/cover.jpg" id="i_plane" caption="Eduard Marmet / Wikimedia" alt="An Air New Zealand-operated McDonnell Douglas DC-10">}}
 
 On November 28 1979, Air New Zealand Flight 901 crashed into Mt. Erebus, killing all 257 people on board. The Mt. Erebus plane crash remains the worst civil accident in the history of New Zealand's aviation, and, at the time of the disaster, the [fourth-deadliest air crash](https://web.archive.org/web/20160304110437/http://antarcticsun.usap.gov/pastIssues/1999-2000/1999_11_28.pdf) of all time.
 
@@ -18,7 +18,7 @@ On November 28 1979, Air New Zealand Flight 901 crashed into Mt. Erebus, killing
 
 At 8.20 am on November 28, 1979, Air New Zealand Flight 901, a [McDonnell Douglas DC-10-30](https://aviation-safety.net/wikibase/328448), prepared for takeoff from Auckland International Airport for Antarctica. The flight was meant to be a 11-hour return sightseeing experience showing the scenic features and landmarks in Antarctica.
 
-{{< img src="06112026/1.jpg" id="i_plane" caption="San Diego Air and Space Museum Archive / Wikimedia" alt="A prototype during flight testing of the DC-10">}}
+{{< img src="/06112026/1.jpg" id="i_plane" caption="San Diego Air and Space Museum Archive / Wikimedia" alt="A prototype during flight testing of the DC-10">}}
 
 Despite never flying the Antarctica route, Captain Jim Collins and First Officer Greg Cassin, who were experienced pilots, had attended a detailed briefing that included flight path coordinates used on previous flights. However, the pilots were not aware that Air New Zealand’s navigation department had altered two key latitude and longitude coordinates earlier that morning. 
 
@@ -28,7 +28,7 @@ After departing Auckland, Flight 901 progressed normally toward Antarctica under
 
 As the flight approached the Ross Island region, weather conditions became more variable, with a broken cloud base at around 914 m (3,000 ft). Approximately 64.4 km (40 miles) from McMurdo, the crew identified a gap in the cloud cover extending down to sea level. They decided to descend through this opening ahead of their scheduled arrival. The captain had also been informed that visibility below the cloud layer over Ross Island extended up to 64.4 km (40 miles). 
 
-{{< img src="06112026/2.jpg" id="i_plane" caption="es0teric / Wikimedia" alt="Mount Erebus, Ross Island, Antarctica">}}
+{{< img src="/06112026/2.jpg" id="i_plane" caption="es0teric / Wikimedia" alt="Mount Erebus, Ross Island, Antarctica">}}
 
 Despite standard safety requirements to maintain a minimum sector altitude of 4,876.8 m (16,000 ft) directly overhead the McMurdo TACAN, and to descend below that altitude only under strict visibility and procedural conditions, the aircraft continued its descent. When Flight 901 informed the U.S. Navy’s air traffic control center at McMurdo Station that they were descending to 610 m (2,000 ft), the air traffic controllers did not question the request. Based on the aircraft’s reported position north of Ross Island, controllers believed the descent would place the aircraft safely over flat sea ice while maintaining visual meteorological conditions, providing passengers with a closer view of Antarctica.
 
@@ -40,7 +40,7 @@ There were [237 passengers](https://www.mch.govt.nz/our-work/memorials-and-comme
 
 ## Investigation
 
-{{< img src="06112026/3.jpg" id="i_plane" caption="ItalianAirForce / Wikimedia" alt="Flight path of Flight 901">}}
+{{< img src="/06112026/3.jpg" id="i_plane" caption="ItalianAirForce / Wikimedia" alt="Flight path of Flight 901">}}
 
 Based on cockpit voice recorder (CVR) transcripts from the last minutes of the flight before impact with Mount Erebus, it was concluded that the flight crew believed they were flying over McMurdo Sound to the west of Mount Erebus, with the Ross Ice Shelf visible on the horizon. About 6 minutes after completing a descent, the plane collided with the mountain at an altitude around 460 m (1,500 ft) on the lower slopes of the mountain. Passenger photographs taken seconds before the collision proved that there was clear visibility beneath the cloud base. 
 
@@ -56,7 +56,7 @@ However, in the early morning before the flight, the pilots did not know that tw
 
 At 12.30 pm, when Flight 901 was about 70 km (43.5 miles) from McMurdo Station, it was granted permission to descend 3,050 m (10,007 ft) below. Air safety regulations usually prohibit planes dropping lower than a height of 1,830 m, even during fine weather, but Collins believed the plane was flying over low and flat ground. Since the flight was also a sightseeing experience, other pilots often flew low to give their passengers a better view of the landmarks.
 
-{{< img src="06112026/4.jpg" id="i_plane" caption="Frog23 / Wikimedia" alt="Air New Zealand Flight 901 Black Box"\>}}
+{{< img src="/06112026/4.jpg" id="i_plane" caption="Frog23 / Wikimedia" alt="Air New Zealand Flight 901 Black Box"\>}}
 
 ### Whiteout phenomenon
 
@@ -68,13 +68,13 @@ From 12:50 pm onwards, McMurdo Centre kept trying to contact Flight 901, and fin
 
 ### Wreckage discovery
 
-{{< img src="06112026/5.jpg" id="i_plane" caption="Mike subritzky / Wikimedia" alt="Fuselage of the DC-10 that crashed in 1979 into Mount Erebus, Antarctica, taken 25 years after the crash">}}
+{{< img src="/06112026/5.jpg" id="i_plane" caption="Mike subritzky / Wikimedia" alt="Fuselage of the DC-10 that crashed in 1979 into Mount Erebus, Antarctica, taken 25 years after the crash">}}
 
 20 hours after the Antarctic plane crash, search parties were able to land at the site, confirming that the plane’s wreckage had been found with no survivors. Inspection of the plane’s wreckage and flight recorder tapes showed that [there was no mechanical reason for the crash](https://thefriendlyskies.net/article/airplane-crashes-explained/), nor was there any emergency in the aircraft’s cockpit.
 
 ## Aftermath of the Mt. Erebus Plane Crash
 
-{{< img src="06112026/6.jpg" id="i_plane" caption="Prosperosity / Wikimedia" alt="Waikumete Cemetery Erebus Memorial, a memorial to Air New Zealand Flight 901 located in Waikumete Cemetery, West Auckland, New Zealand">}}
+{{< img src="/06112026/6.jpg" id="i_plane" caption="Prosperosity / Wikimedia" alt="Waikumete Cemetery Erebus Memorial, a memorial to Air New Zealand Flight 901 located in Waikumete Cemetery, West Auckland, New Zealand">}}
 
 Two official investigations were conducted after the Flight 901 disaster. The first investigation identified pilot error as the main cause of the crash. However, since the report caused controversy, a royal commission of inquiry was established for further investigation. Released in 1981, the [second report](https://gg.govt.nz/sites/default/files/2021-06/RC%20136%20Crash%20on%20Mt%20Erebus.pdf) identified that Air New Zealand was to blame for the accident for changing the flight path without the aircrew’s knowledge. As a result, Air New Zealand and the Civil Aviation Division were ordered to pay the costs of the inquiry.
 
