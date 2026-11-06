@@ -4,7 +4,7 @@ meta_title: "Mount Erebus Disaster: The 1979 Air New Zealand Flight 901"
 description: "This article explores the Erebus plane crash involving Air New Zealand Flight 901, known as the worst civil accident in the history of New Zealand's aviation."
 date: 2026-11-06T11:00:00+15:00
 draft: false
-thumb: "06112026/cover.jpg"
+thumb: "/06112026/cover.jpg"
 thumb_alt: "Air New Zealand Flight 901 approaching Mt. Erebus"
 author: "rosita-mickeviciute"
 is_article: true
