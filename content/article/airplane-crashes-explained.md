@@ -12,7 +12,7 @@ is_article: true
 
 {{< img src="/21042026/cover.png" id="i_plane" caption="Payam Zolfagharian / Pexels" alt="Abandoned Plane Wreck on Desolate Black Beach">}}
 
-Air travel is regarded as one of the safest modes of transport. In 2024, a study from [MIT](https://news.mit.edu/2024/study-flying-keeps-getting-safer-0807) also found that commercial airplanes have become roughly twice as safe every decade since the 1960s. [Compared to traveling by car](https://www.wfmynews2.com/article/news/local/why-flying-safer-than-driving-plane-crashes-vs-car-crashes-safety-data/), which has approximately 1 fatality per 83,000 passenger journeys, commercial aviation has a fatality rate of 1 per 7.9 million journeys, making it much safer than automotive travels.
+Air travel is regarded as one of the safest modes of transport. In 2024, a study from [MIT](https://news.mit.edu/2024/study-flying-keeps-getting-safer-0807) also found that commercial airplanes have become roughly twice as safe every decade since the 1960s. [Compared to traveling by car](linkedin.com/pulse/beyond-intuition-why-flying-really-safer-than-driving-philip-mann-15tee), which has approximately 1 fatality per 83,000 passenger journeys, commercial aviation has a fatality rate of 1 per 7.9 million journeys, making it much safer than automotive travels.
 
 However, there is still a significant number of airplane crashes today. While plane crashes are rare, when they do happen, the impact is often catastrophic. It may even make the flying experience terrifying for some individuals due to a lack of understanding of why crashes happen. 
 
