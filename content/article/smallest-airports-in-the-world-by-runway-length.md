@@ -2,7 +2,7 @@
 title: "Top 10 Smallest Airports in the World by Runway Length"
 meta_title: "Top 10 Smallest Airports in the World by Runway Length"
 description: "Airports in remote or compact locations tend to have extremely short runways. Here are the top 10 smallest airports in the world by runway length"
-date: 2026-11-06T11:00:00+15:00
+date: 2026-11-20T11:00:00+15:00
 draft: false
 thumb: "/20112026/cover.png"
 thumb_alt: "Saba airport from above."
