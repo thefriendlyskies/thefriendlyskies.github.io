@@ -14,7 +14,7 @@ is_article: true
 
 The runway is a crucial part of any airport to provide a stable surface for aircraft to take off and land safely. However, airports in remote or dangerous locations do not always have the luxury of widely available space. Some commercial airports have to operate with extremely short runways, some less than 600 m (1968.5 ft) long. Ever wonder where these airports are located? Here are the top 10 smallest airports in the world by their runway length.
 
-10. ## Barra Airport, Scotland
+## 10. Barra Airport, Scotland
 
 {{< img src="/20112026/2.png" id="i_plane" caption="David Hignett / Wikimedia" alt="Barra Airport from the road.">}}
 
@@ -22,7 +22,7 @@ Located on the island of Barra, north of Scotland, Barra Airport is one of the o
 
 Despite its small size and secluded location, the airport manages to handle more than 10,000 passengers per year with around 1,400 aircraft movements. This includes [commercial flights](https://thefriendlyskies.net/article/how-high-do-planes-fly/) operated by Loganair and Flybe to Glasgow Airport, as well as around 60 [private light aircraft](https://thefriendlyskies.net/article/history-of-private-jets/) landing every year.
 
-9. ## Gustaf III Airport, Saint Barthélemy
+## 9. Gustaf III Airport, Saint Barthélemy
 
 {{< img src="/20112026/9.png" id="i_plane" caption="David Stanley / Wikimedia" alt="Gustaf III Airport on St. Barts, Eastern Caribbean.">}}
 
@@ -30,7 +30,7 @@ Located in St Jean on the volcanic island of Saint Barthélemy, [Gustaf III Airp
 
 As the island is a popular tourist destination, this airport serves several small regional commercial and charter flights daily, connecting Saint Barthélemy to other parts of the Caribbean such as Antigua, Saint Martin, and Anguilla. Aircraft includes the Pilatus PC-12, Cessna 208B Grand Caravan, and de Havilland DHC-6 Twin Otter. Despite challenging conditions, the airport has a stellar safety record, handling around 140,000 to 170,000 passengers annually.
 
-8. ## John A. Osborne Airport, Montserrat
+## 8. John A. Osborne Airport, Montserrat
 
 {{< img src="/20112026/8.png" id="i_plane" caption="Stefan Krasowski / Wikimedia" alt="Monsterrat Airport">}}
 
@@ -38,7 +38,7 @@ As the sole aviation gateway to Montserrat in the Caribbean Island, John A. Osbo
 
 Although this airport is among the smallest airports in the world, it plays a vital role in connecting the island with the region with [annual passenger traffic](https://grokipedia.com/page/transport_in_montserrat) of 12,000-15,000. Headquartered at the airport, FlyMontserrat operates regular scheduled flights to Antigua, along with ABM Air and charter operators such as Trans Anguilla Airways. What sets this airport apart is a public road passing underneath the runway through a tunnel in Montserrat’s rugged landscape.
 
-7. ## Courchevel Airport, France
+## 7. Courchevel Airport, France
 
 {{< img src="/20112026/7.png" id="i_plane" caption="qwesy qwesy / Wikimedia" alt="Altiport de Courchevel, Courchevel Airport (CVF).">}}
 
@@ -46,7 +46,7 @@ Courchevel Airport serves the luxury ski resort of Courchevel in the French Alps
 
 Today, the airport is used primarily by helicopters and small STOL-capable aircraft, with operations tightly regulated by the French Civil Aviation Authority. Commercial passenger flights were only permitted from 2015, and Alpine Airlines remains the sole authorised charter operator. Combined with rapidly changing alpine weather, these constraints demand specialized mountain pilot certification and precise flying. Still, roughly 10,000 passengers arrive during its busy winter season from January-March, although this number tends to decline in summer.
 
-6. ## Tenzing-Hillary Airport, Nepal
+## 6. Tenzing-Hillary Airport, Nepal
 
 {{< img src="/20112026/4.png" id="i_plane" caption="Jong Hun Kang / Wikimedia" alt="An aircraft landing on Tenzing Norgay-Edmund Hillary Airport.">}}
 
@@ -54,7 +54,7 @@ Often used as a starting point for those climbing Mount Everest, Tenzing-Hillary
 
 Named after Sir Edmund Hillary and Sherpa Tenzing Norgay, the first people to successfully reach the summit of Mount Everest, this airport was built in 1964, but the runway was paved in 2001\. It only operates in the daytime, usually between 6 to 9 a.m. due to the lack of navigational landing guides. There are strict requirements for pilots who are allowed to fly aircraft to and from this airport, requiring STOL operations certification and specific mountain flying credentials. Some aircraft operating in the airport are the de Havilland Canada DHC-6 Twin Otter and Dornier 228 due to their high-altitude reliability and manoeuvrability. Despite these conditions, it witnesses significant passenger traffic, with the latest figures showing over 199,000 passengers in 2020\.
 
-5. ## St. Mary’s Airport, Isles of Scilly, United Kingdom
+## 5. St. Mary’s Airport, Isles of Scilly, United Kingdom
 
 {{< img src="/20112026/6.png" id="i_plane" caption="Andrewrabbott / Wikimedia" alt="De Havilland Twin Otter at St. Mary's Airport.">}}
 
@@ -62,7 +62,7 @@ St. Mary’s Airport, off Cornwall’s southwest coast, is the primary aviation 
 
 To fly into this airport, passengers have to take the local regional carrier Skybus, which connects St. Mary’s to destinations such as Land’s End, Newquay, and Exeter. Flights are usually under an hour in tiny de Havilland DHC-6 Twin Otters and Britten-Norman Islanders, flown by pilots who have passed special training to get used to the coastal winds and unpredictable weather. 
 
-4. ## Inishmore Aerodrome, Ireland
+## 4. Inishmore Aerodrome, Ireland
 
 {{< img src="/20112026/5.png" id="i_plane" caption="calflier001 / Wikimedia" alt="Inishmore Aerodrome, Ireland.">}}
 
@@ -70,7 +70,7 @@ Located in Ireland’s coastline, [Inishmore Aerodrome](https://pt.flightsim.to/
 
 Providing a functional airstrip for regional travel, the airport’s low altitude, compact layout, and coastal location demands pilots with precision and familiarity with the island’s conditions. Aer Arann Islands operates on this airport with the Britten-Norman BN-2 Islander, a twin-engine aircraft for STOL operations on rural airstrips. The latest number of annual passengers recorded in 2020 is 5,020 passengers.
 
-3. ## Heligoland Airport, Germany
+## 3. Heligoland Airport, Germany
 
 {{< img src="/20112026/3.png" id="i_plane" caption="Politikaner / Wikimedia" alt="Heligoland Airport.">}}
 
@@ -78,7 +78,7 @@ Situated on Germany’s only offshore island, Heligoland Airport has one of the 
 
 Due to the airport’s oceanfront exposure and short length, flights are restricted to small STOL-capable aircraft. These are mostly Britten-Norman Islander planes operated by Ostfriesischer-Flug-Dienst (OFD), flying to mainland cities like Nordholz and Cuxhaven with an estimation of 10,000 to 15,000 passengers each year.
 
-2. ## Juancho E. Yrausquin Airport, Saba
+## 2. Juancho E. Yrausquin Airport, Saba
 
 {{< img src="/20112026/1.png" id="i_plane" caption="alljengi / Wikimedia" alt="Juancho E. Yrausquin Airport, Saba.">}}
 
@@ -86,7 +86,7 @@ Flying into Saba, a Caribbean island in the Lesser Antilles chain, isn’t for t
 
 Today, this airport still has roughly 70,000 passenger arrivals and departures every year. In October 2025, the airport installed a new taxiway lighting system using LED lights to improve its safety and reliability. 
 
-1. ## Out Skerries Airstrip, Scotland
+## 1. Out Skerries Airstrip, Scotland
 
 {{< img src="/20112026/10.png" id="i_plane" caption="Rude Health / Wikimedia" alt="View East Down Runway at Out Skerries Airport.">}}
 
